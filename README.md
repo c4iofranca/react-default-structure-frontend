@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
+## `This project is a guideline used by me to structure code and folders for each piece of code. Includes ESLint and Prettier configuration for clean code.`
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
